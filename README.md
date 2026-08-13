@@ -32,15 +32,17 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3>[ STATS & INTELLIGENCE ]</h3>
+<h3>[ STATS & STREAK ]</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=aman-vrma&show_icons=true&theme=blood&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" alt="Stats" width="100%" />
+<!-- Streak Stats mirror server (High availability) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-vrma&theme=dark&background=0D1117&fire=FF0000&ring=FF0000&currStreakNum=FF0000&sideNums=FFFFFF&sideTitle=FFFFFF" alt="Streak Stats" width="100%" />
 </p>
 </td>
 <td width="50%" valign="top">
 <h3>[ TOP WEAPONS (LANGUAGES) ]</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-vrma&layout=compact&theme=blood&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" alt="Top Langs" width="100%" />
+<!-- Reliable Shield badges representation if API rate limits -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-vrma&layout=compact&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&cache_seconds=1800" alt="Top Languages" width="100%" />
 </p>
 </td>
 </tr>
