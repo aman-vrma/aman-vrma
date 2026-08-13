@@ -33,10 +33,18 @@
 
 <br>
 
-<!-- FEATURE 2: CYBERPUNK TROPHIES -->
-<h2>[ 🏆 ACHIEVEMENTS & TROPHIES ]</h2>
+<!-- RELIABLE CYBERPUNK ACHIEVEMENTS GRID -->
+<h2>[ 🏆 UNLOCKED ACHIEVEMENTS ]</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aman-vrma&theme=blood&no-frame=true&column=4" width="100%" />
+  <img src="https://img.shields.io/badge/Code_Architect-Master-FF0000?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Commit_Streak-Active-FF4500?style=for-the-badge&logo=git&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI_Developer-Specialist-00FF00?style=for-the-badge&logo=openai&logoColor=black" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-1E90FF?style=for-the-badge&logo=gitbook&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bug_Hunter-Level_Max-FFD700?style=for-the-badge&logo=dependabot&logoColor=black" />
 </p>
 
 <br>
@@ -74,7 +82,7 @@
 
 <br>
 
-<!-- FEATURE 3: DAILY TECH QUOTES -->
+<!-- DAILY TECH QUOTES -->
 <h2>[ 💬 TERMINAL QUOTE OF THE DAY ]</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
