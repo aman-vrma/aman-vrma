@@ -34,15 +34,18 @@
 <td width="50%" valign="top">
 <h3>[ STATS & STREAK ]</h3>
 <p align="left">
-<!-- Streak Stats mirror server (High availability) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-vrma&theme=dark&background=0D1117&fire=FF0000&ring=FF0000&currStreakNum=FF0000&sideNums=FFFFFF&sideTitle=FFFFFF" alt="Streak Stats" width="100%" />
 </p>
 </td>
 <td width="50%" valign="top">
 <h3>[ TOP WEAPONS (LANGUAGES) ]</h3>
+<br>
 <p align="left">
-<!-- Reliable Shield badges representation if API rate limits -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-vrma&layout=compact&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&cache_seconds=1800" alt="Top Languages" width="100%" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openapi-initiative&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 </td>
 </tr>
