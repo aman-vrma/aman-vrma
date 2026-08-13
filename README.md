@@ -34,13 +34,13 @@
 <td width="50%" valign="top">
 <h3>[ STATS & INTELLIGENCE ]</h3>
 <p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aman-vrma&show_icons=true&theme=blood&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" alt="Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aman-vrma&show_icons=true&theme=blood&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" alt="Stats" width="100%" />
 </p>
 </td>
 <td width="50%" valign="top">
 <h3>[ TOP WEAPONS (LANGUAGES) ]</h3>
 <p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aman-vrma&layout=compact&theme=blood&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" alt="Top Langs" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-vrma&layout=compact&theme=blood&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" alt="Top Langs" width="100%" />
 </p>
 </td>
 </tr>
