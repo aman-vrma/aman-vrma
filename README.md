@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Welcome%20To%20My%20Space&fontSize=40&animation=fadeIn)
 Hi there, I'm [Aman Verma] 👋
 
 - 🔭 I’m currently working on cool software & AI projects
