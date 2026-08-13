@@ -1,0 +1,40 @@
+name: Generate Red Combat Contribution Grid
+
+on:
+  # Automatically runs every 24 hours (12:00 AM UTC)
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Allows you to run this manually anytime from the Actions tab
+  workflow_dispatch:
+  
+  # Runs on every push to the main branch
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Generates the combat grid animation with custom 'deadly' colors
+      - name: Generate the combat animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?color_snake=white&color_dots=#3c3c3c,#6e1c1c,#992222,#cc3333,#ff0000&point_sprite=doom-imp
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # Deploys the generated images to a special 'output' branch
+      - name: Deploy to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
