@@ -33,6 +33,14 @@
 
 <br>
 
+<!-- FEATURE 2: CYBERPUNK TROPHIES -->
+<h2>[ 🏆 ACHIEVEMENTS & TROPHIES ]</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aman-vrma&theme=blood&no-frame=true&column=4" width="100%" />
+</p>
+
+<br>
+
 <h2>[ ⚔️ ENEMY DETECTED: CONTRIBUTION CALENDAR ]</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/aman-vrma/aman-vrma/output/github-contribution-grid-snake-dark.svg" alt="Battle Grid" width="100%" />
@@ -63,6 +71,14 @@
 </td>
 </tr>
 </table>
+
+<br>
+
+<!-- FEATURE 3: DAILY TECH QUOTES -->
+<h2>[ 💬 TERMINAL QUOTE OF THE DAY ]</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 <br>
 
