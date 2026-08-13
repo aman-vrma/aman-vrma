@@ -5,6 +5,11 @@ Hi there, I'm [Aman Verma] 👋
 - 💬 Ask me about Python, Java, or Web Development
 - 📫 How to reach me: [av3500090@gmail.com]
 
+- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aman-vrmaE&show_icons=true&theme=radial&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-vrma&theme=radial&hide_border=true" width="48%" />
+</p>
+
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
