@@ -1,4 +1,4 @@
-<!-- 1. LIVE SCI-FI TERMINAL HEADER (IDEA 2) -->
+<!-- 1. LIVE SCI-FI TERMINAL HEADER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=70&lines=%3E_INITIALIZING+CYBER_TERMINAL_V3.0;%3E_OPERATOR%3A+AMAN+VERMA;%3E_STATUS%3A+HOSTILE_SYSTEMS_DETECTED;%3E_EXECUTING+DEBUG_PROTOCOL...;%3E_CODE+IS+THE+WEAPON." alt="Terminal SVG" />
@@ -33,12 +33,10 @@
 
 <br>
 
-<!-- 2. RETRO BOSS FIGHT ARENA (IDEA 1) -->
-<h2>[ ⚔️ RETRO BOSS BATTLE // GLITCH PURGE ARENA ]</h2>
+<!-- 2. ACTUAL RETRO PIXEL BOSS FIGHT SPRITE -->
+<h2>[ ⚔️ RETRO BOSS BATTLE // PURGE PROTOCOL ]</h2>
 <p align="center">
-  <a href="https://github.com/aman-vrma">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=👾+BOSS:+GLITCH_OVERLORD+%5BHP:+0/9999%5D%0A⚔️+ATTACK:+PYTHON_SPELL_BEAM+|+DAMAGE:+CRITICAL!&fontSize=20&fontColor=FF0000&animation=twinkle&stroke=FF0000&strokeWidth=2" width="100%" />
-  </a>
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" alt="Pixel Boss Fight" width="85%" style="border: 2px solid #FF0000; border-radius: 10px;" />
 </p>
 
 <br>
@@ -51,7 +49,7 @@
 
 <br>
 
-<!-- 3. RPG WEAPONS & TECH INVENTORY (IDEA 3) -->
+<!-- 3. RPG WEAPONS & TECH INVENTORY -->
 <h2>[ 🗡️ ARSENAL & TECH INVENTORY ]</h2>
 <table width="100%">
 <tr>
