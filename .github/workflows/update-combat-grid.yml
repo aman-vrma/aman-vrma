@@ -20,13 +20,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate the combat animation
+      - name: Generate the colorful combat animation
         uses: Platane/snk@v3
         with:
           github_user_name: aman-vrma
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=white&color_dots=#3c3c3c,#6e1c1c,#992222,#cc3333,#ff0000
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00FFCC&color_dots=#161b22,#39d353,#ffcc00,#ff4500,#ff0000
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
