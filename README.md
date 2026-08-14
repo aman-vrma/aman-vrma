@@ -33,14 +33,6 @@
 
 <br>
 
-<!-- 2. ACTUAL RETRO PIXEL BOSS FIGHT SPRITE -->
-<h2>[ ⚔️ RETRO BOSS BATTLE // PURGE PROTOCOL ]</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" alt="Pixel Boss Fight" width="85%" style="border: 2px solid #FF0000; border-radius: 10px;" />
-</p>
-
-<br>
-
 <!-- CONTRIBUTION CALENDAR -->
 <h2>[ 🎯 TARGET RANGE: CONTRIBUTION GRID ]</h2>
 <p align="center">
@@ -49,7 +41,7 @@
 
 <br>
 
-<!-- 3. RPG WEAPONS & TECH INVENTORY -->
+<!-- RPG WEAPONS & TECH INVENTORY -->
 <h2>[ 🗡️ ARSENAL & TECH INVENTORY ]</h2>
 <table width="100%">
 <tr>
