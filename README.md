@@ -1,43 +1,40 @@
-<!-- BACKGROUND WALLPAPER WITH OVERLAY PROFILE CARD -->
+<!-- 1. HIGH-TECH CYBERPUNK WALLPAPER BANNER -->
 <p align="center">
-  <svg width="100%" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" style="border: 2px solid #00FFFF; border-radius: 14px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.4);">
-    <defs>
-      <!-- Circular Clip for Avatar -->
-      <clipPath id="avatar-clip">
-        <circle cx="95" cy="110" r="60" />
-      </clipPath>
-      <!-- Dark Vignette Gradient -->
-      <linearGradient id="overlay-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#000000" stop-opacity="0.95" />
-        <stop offset="40%" stop-color="#05050f" stop-opacity="0.8" />
-        <stop offset="100%" stop-color="#000000" stop-opacity="0.4" />
-      </linearGradient>
-    </defs>
-
-    <!-- 1. Background Wallpaper Image Layer -->
-    <image href="https://images.unsplash.com/photo-1578632767115-351597cf2477?q=80&w=1600&auto=format&fit=crop" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
-
-    <!-- 2. Dark Overlay Layer for Text Readability -->
-    <rect width="100%" height="100%" fill="url(#overlay-grad)" />
-
-    <!-- 3. Profile Avatar with Neon Glow Border -->
-    <circle cx="95" cy="110" r="64" fill="none" stroke="#00FFFF" stroke-width="3" />
-    <image href="https://github.com/aman-vrma.png" x="35" y="50" width="120" height="120" clip-path="url(#avatar-clip)" />
-
-    <!-- 4. Text & Stats Overlay Directly on Top of Photo -->
-    <text x="180" y="55" fill="#00FFFF" font-family="'Fira Code', monospace" font-weight="900" font-size="22" letter-spacing="1.5">&gt; OPERATOR // AMAN VERMA</text>
-    
-    <!-- System Status Badge -->
-    <rect x="180" y="70" width="135" height="22" rx="4" fill="#00FF66" fill-opacity="0.2" stroke="#00FF66" stroke-width="1.5" />
-    <text x="190" y="86" fill="#00FF66" font-family="'Fira Code', monospace" font-weight="bold" font-size="12">● SYSTEM ONLINE</text>
-
-    <!-- Information Lines -->
-    <text x="180" y="122" fill="#FFFFFF" font-family="'Fira Code', monospace" font-size="14">&gt; CLASS   : Full-Stack Architect // AI Engineer</text>
-    <text x="180" y="148" fill="#FFFFFF" font-family="'Fira Code', monospace" font-size="14">&gt; ZONE    : India 📍 | ACCESS: ROOT_ADMIN</text>
-    <text x="180" y="174" fill="#00FFFF" font-family="'Fira Code', monospace" font-size="13">&gt; MISSION : Executing high-damage code &amp; neural models</text>
-    <text x="180" y="196" fill="#8892b0" font-family="'Fira Code', monospace" font-size="12">&gt; WEAPONS : Python • Java • C++ • C • C# • SQL</text>
-  </svg>
+  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1600&auto=format&fit=crop" width="100%" style="border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 25px rgba(0, 255, 255, 0.4);" />
 </p>
+
+<!-- 2. LIVE NEON SCI-FI TERMINAL -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&height=65&lines=%3E_OPERATOR%3A+AMAN+VERMA;%3E_CLASS%3A+FULL-STACK+ARCHITECT+%2F%2F+AI+ENGINEER;%3E_STATUS%3A+HOSTILE_SYSTEMS_DETECTED;%3E_MISSION%3A+EXECUTING+CODE_PURGE_PROTOCOL;%3E_WEAPON%3A+PYTHON+%2B+JAVA+%2B+AI_CORES." alt="Terminal SVG" />
+  </a>
+</p>
+
+<!-- 3. OPERATOR PROFILE DISPLAY -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="170" align="center" valign="top">
+  <img src="https://github.com/aman-vrma.png" width="150" style="border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 20px #00FFFF;" />
+  <br><br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF66?style=for-the-badge&logo=gnubash&logoColor=black" />
+  </p>
+</td>
+<td valign="top" style="padding-left: 15px;">
+  <h2><code>&gt; OPERATOR // AMAN VERMA</code></h2>
+  <p>
+    <code>[LEVEL]: Full-Stack Architect &amp; AI Engineer</code><br>
+    <code>[CLASS]: Code Sorcerer / System Purger</code><br>
+    <code>[ZONE]: India 📍</code>
+  </p>
+
+  <p>
+    <code><b>&gt; LIVE LOGS:</b> Intercepting bugs &amp; developing neural AI pipelines.</code><br>
+    <code><b>&gt; CORE PROTOCOL:</b> High-damage code execution with 100% stability.</code>
+  </p>
+</td>
+</tr>
+</table>
 
 <br>
 
