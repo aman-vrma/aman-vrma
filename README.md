@@ -1,7 +1,12 @@
-<!-- 1. LIVE SCI-FI TERMINAL HEADER -->
+<!-- CYBERPUNK / GAMER / AI HERO BANNER -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1600&auto=format&fit=crop" width="100%" height="280" style="object-fit: cover; border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 25px rgba(0, 255, 255, 0.4);" />
+</p>
+
+<!-- LIVE SCI-FI TERMINAL HEADER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=%3E_INITIALIZING+CYBER_TERMINAL_V3.0;%3E_OPERATOR%3A+AMAN+VERMA;%3E_STATUS%3A+HOSTILE_SYSTEMS_DETECTED;%3E_EXECUTING+DEBUG_PROTOCOL...;%3E_CODE+IS+THE+WEAPON." alt="Terminal SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&height=70&lines=%3E_OPERATOR%3A+AMAN+VERMA;%3E_CLASS%3A+FULL-STACK+ARCHITECT+%2F%2F+AI+ENGINEER;%3E_STATUS%3A+HOSTILE_SYSTEMS_DETECTED;%3E_MISSION%3A+EXECUTING+CODE_PURGE_PROTOCOL;%3E_WEAPON%3A+PYTHON+%2B+JAVA+%2B+AI_CORES." alt="Terminal SVG" />
   </a>
 </p>
 
@@ -19,13 +24,13 @@
   <h2><code>&gt; OPERATOR // AMAN VERMA</code></h2>
   <p>
     <code>[LEVEL]: Full-Stack Architect &amp; AI Engineer</code><br>
-    <code>[CLASS]: Code Sorcerer / System Purger</code><br>
+    <code>[CLASS]: Code Sorcerer / High-Speed Refactorer</code><br>
     <code>[ZONE]: India 📍</code>
   </p>
 
   <p>
-    <code><b>&gt; LIVE LOGS:</b> Intercepting bugs in <code>universal-movie-hub</code> &amp; building AI engines.</code><br>
-    <code><b>&gt; CORE PROTOCOL:</b> High-damage code execution with 100% stability.</code>
+    <code><b>&gt; LIVE LOGS:</b> Optimizing AI companions &amp; architectural databases.</code><br>
+    <code><b>&gt; CORE PROTOCOL:</b> High-damage code execution with 100% system stability.</code>
   </p>
 </td>
 </tr>
@@ -34,7 +39,7 @@
 <br>
 
 <!-- CONTRIBUTION CALENDAR -->
-<h2>[ 🎯 TARGET RANGE: CONTRIBUTION GRID ]</h2>
+<h2>[ 🎯 TARGET RANGE: COMBAT GRID ]</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/aman-vrma/aman-vrma/output/github-contribution-grid-snake-dark.svg" alt="Battle Grid" width="100%" />
 </p>
