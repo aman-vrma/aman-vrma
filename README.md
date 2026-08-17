@@ -1,40 +1,24 @@
-<!-- 1. HIGH-TECH CYBERPUNK WALLPAPER BANNER -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1600&auto=format&fit=crop" width="100%" style="border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 25px rgba(0, 255, 255, 0.4);" />
-</p>
-
-<!-- 2. LIVE NEON SCI-FI TERMINAL -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&height=65&lines=%3E_OPERATOR%3A+AMAN+VERMA;%3E_CLASS%3A+FULL-STACK+ARCHITECT+%2F%2F+AI+ENGINEER;%3E_STATUS%3A+HOSTILE_SYSTEMS_DETECTED;%3E_MISSION%3A+EXECUTING+CODE_PURGE_PROTOCOL;%3E_WEAPON%3A+PYTHON+%2B+JAVA+%2B+AI_CORES." alt="Terminal SVG" />
-  </a>
-</p>
-
-<!-- 3. OPERATOR PROFILE DISPLAY -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<!-- CYBERPUNK TERMINAL WITH INLINE BACKGROUND GRAPHIC -->
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" background="https://images.wallpaperscraft.com/image/single/cyberpunk_art_character_146200_1920x1080.jpg" style="border: 2px solid #00FFFF; border-radius: 12px; padding: 15px;">
 <tr>
 <td width="170" align="center" valign="top">
-  <img src="https://github.com/aman-vrma.png" width="150" style="border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 20px #00FFFF;" />
+  <img src="https://github.com/aman-vrma.png" width="140" style="border-radius: 50%; border: 3px solid #00FFFF; box-shadow: 0 0 20px #00FFFF;" />
   <br><br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF66?style=for-the-badge&logo=gnubash&logoColor=black" />
-  </p>
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF66?style=for-the-badge&logo=gnubash&logoColor=black" />
 </td>
-<td valign="top" style="padding-left: 15px;">
-  <h2><code>&gt; OPERATOR // AMAN VERMA</code></h2>
+<td valign="top" style="padding-left: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=false&vCenter=true&width=600&height=40&lines=%3E_OPERATOR%3A+AMAN+VERMA;%3E_CLASS%3A+FULL-STACK+%2F%2F+AI+ARCHITECT;%3E_STATUS%3A+DEPLOYING+AI_MODELS..." alt="Terminal SVG" />
+  <br>
   <p>
-    <code>[LEVEL]: Full-Stack Architect &amp; AI Engineer</code><br>
-    <code>[CLASS]: Code Sorcerer / System Purger</code><br>
-    <code>[ZONE]: India 📍</code>
-  </p>
-
-  <p>
-    <code><b>&gt; LIVE LOGS:</b> Intercepting bugs &amp; developing neural AI pipelines.</code><br>
-    <code><b>&gt; CORE PROTOCOL:</b> High-damage code execution with 100% stability.</code>
+    <code><b>[ZONE]</b>: India 📍 | <b>[ACCESS LEVEL]</b>: ROOT_ADMIN</code><br>
+    <code><b>[PRIMARY PROTOCOL]</b>: Executing high-damage code purges &amp; AI architectures.</code><br>
+    <code><b>[ACTIVE REPO]</b>: <code>universal-movie-hub</code> &amp; Core Neural Engines.</code>
   </p>
 </td>
 </tr>
 </table>
+</div>
 
 <br>
 
