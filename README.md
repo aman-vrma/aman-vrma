@@ -1,4 +1,4 @@
-<!-- CYBERPUNK TERMINAL CONTAINER (FORCE PURE BLACK BACKGROUND) -->
+<!-- CYBERPUNK TERMINAL CONTAINER -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000" style="border: 2px solid #00FFFF; border-radius: 12px; padding: 15px; background-color: #000000;">
 <tr>
 <td width="170" align="center" valign="top" bgcolor="#000000">
@@ -42,7 +42,7 @@
 
 <br>
 
-<!-- RPG WEAPONS & TECH INVENTORY (FORCE BLACK BACKGROUND) -->
+<!-- RPG WEAPONS & TECH INVENTORY -->
 <h2>[ 🗡️ ARSENAL &amp; TECH INVENTORY ]</h2>
 <table width="100%" bgcolor="#000000" style="background-color: #000000; border: 1px solid #161b22; border-radius: 8px; padding: 10px;">
 <tr>
@@ -73,10 +73,18 @@
 
 <br>
 
-<!-- GITHUB METRICS LOCAL RENDER (OFFICIAL GRAPHQL - NO 3RD PARTY CRASH) -->
-<h2>[ ⚡ REAL-TIME SYSTEM METRICS ]</h2>
+<!-- REAL-TIME STREAK STATS CARD (ASLI WALA STREAK) -->
+<h2>[ ⚡ REAL-TIME STREAK STATS ]</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aman-vrma/aman-vrma/main/github-metrics.svg" alt="System Metrics" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=aman-vrma&theme=dark&background=000000&fire=00FFFF&ring=00FFFF&currStreakNum=00FF66&sideNums=FFFFFF&sideTitle=00FFFF&border=00FFFF" alt="Streak Stats" width="80%" />
+</p>
+
+<br>
+
+<!-- TERMINAL QUOTE OF THE DAY -->
+<h2>[ 💬 SYSTEM QUOTE OF THE DAY ]</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 <br>
