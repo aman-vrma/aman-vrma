@@ -1,7 +1,7 @@
 <!-- 1. LIVE SCI-FI TERMINAL HEADER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=70&lines=%3E_INITIALIZING+CYBER_TERMINAL_V3.0;%3E_OPERATOR%3A+AMAN+VERMA;%3E_STATUS%3A+HOSTILE_SYSTEMS_DETECTED;%3E_EXECUTING+DEBUG_PROTOCOL...;%3E_CODE+IS+THE+WEAPON." alt="Terminal SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=%3E_INITIALIZING+CYBER_TERMINAL_V3.0;%3E_OPERATOR%3A+AMAN+VERMA;%3E_STATUS%3A+HOSTILE_SYSTEMS_DETECTED;%3E_EXECUTING+DEBUG_PROTOCOL...;%3E_CODE+IS+THE+WEAPON." alt="Terminal SVG" />
   </a>
 </p>
 
@@ -9,10 +9,10 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="170" align="center" valign="top">
-  <img src="https://github.com/aman-vrma.png" width="150" style="border-radius: 12px; border: 2px solid #FF0000; box-shadow: 0 0 20px #FF0000;" />
+  <img src="https://github.com/aman-vrma.png" width="150" style="border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 20px #00FFFF;" />
   <br><br>
   <p align="center">
-    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=for-the-badge&logo=gnubash&logoColor=black" />
+    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF66?style=for-the-badge&logo=gnubash&logoColor=black" />
   </p>
 </td>
 <td valign="top" style="padding-left: 15px;">
@@ -70,13 +70,13 @@
 
 <br>
 
-<!-- STATS & STREAK -->
+<!-- STATS & STREAK (PURE BLACK DARK BACKGROUND) -->
 <table width="100%">
 <tr>
 <td width="100%" valign="top">
 <h3>[ ⚡ REAL-TIME METRICS ]</h3>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-vrma&theme=dark&background=0D1117&fire=FF0000&ring=FF0000&currStreakNum=FF0000&sideNums=FFFFFF&sideTitle=FFFFFF" alt="Streak Stats" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-vrma&theme=dark&background=000000&fire=00FFFF&ring=00FFFF&currStreakNum=00FF66&sideNums=FFFFFF&sideTitle=00FFFF&border=00FFFF" alt="Streak Stats" width="80%" />
 </p>
 </td>
 </tr>
