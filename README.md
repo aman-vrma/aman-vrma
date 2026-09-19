@@ -2,18 +2,23 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="160" align="center" valign="top">
-  <img src="https://github.com/aman-vrma.png" width="140" style="border-radius: 12px; border: 2px solid #00FFFF;" />
+  <img src="https://github.com/aman-vrma.png" width="140" style="border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 15px rgba(0, 255, 255, 0.4);" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=aman-vrma&label=PROFILE_VIEWS&color=00ffff&style=flat-square" alt="Views" />
 </td>
 <td valign="top" style="padding-left: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=false&vCenter=true&width=650&height=40&lines=Aman+Verma+//+Software+Engineer;Full-Stack+Architect+%26+AI+Developer;Building+Scalable+Web+%26+Computer+Vision+Systems" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=false&vCenter=true&width=650&height=40&lines=Aman+Verma+//+Software+Engineer;Full-Stack+Architect+%26+AI+Developer;Building+Scalable+Web+%26+Autonomous+Agents" alt="Terminal Typing" />
   <br>
   <p>
-    <b>📍 Location:</b> India<br>
-    <b>🎓 Education:</b> B.Tech in Computer Science &amp; Engineering<br>
-    <b>🚀 Core Focus:</b> Full-Stack Web Development, AI Integration, &amp; System Architecture<br>
-    <b>⚡ Active Project:</b> <a href="https://github.com/aman-vrma/Universal-Movie-Hub"><b>Universal Movie Hub</b></a> &amp; Autonomous AI Assistants
+    <code>📍 <b>Location:</b> India</code><br>
+    <code>🎓 <b>Education:</b> B.Tech in Computer Science &amp; Engineering</code><br>
+    <code>⚡ <b>Core Focus:</b> Full-Stack Web Architecture, Distributed AI, &amp; Computer Vision</code>
+  </p>
+  <p>
+    <code>🚀 <b>Active Deployments:</b></code><br>
+    <a href="https://github.com/aman-vrma/Universal-Movie-Hub" target="_blank"><img src="https://img.shields.io/badge/Universal_Movie_Hub-Streaming_Platform-E50914?style=flat-square&logo=netflix&logoColor=white" /></a>
+    <a href="https://github.com/aman-vrma/mindmesh" target="_blank"><img src="https://img.shields.io/badge/MindMesh-Dual--AI_Orchestrator-7928CA?style=flat-square&logo=probot&logoColor=white" /></a>
+    <a href="https://github.com/aman-vrma" target="_blank"><img src="https://img.shields.io/badge/Jarvis_AI-Autonomous_Assistant-00C7B7?style=flat-square&logo=openai&logoColor=white" /></a>
   </p>
 </td>
 </tr>
@@ -24,7 +29,7 @@
 <!-- CONTRIBUTION CALENDAR -->
 <h3>Contribution Activity</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aman-vrma/aman-vrma/output/github-contribution-grid-snake-dark.svg" alt="Contribution Grid" width="100%" />
+  <img src="https://raw.githubusercontent.com/aman-vrma/aman-vrma/output/github-contribution-grid-snake-dark.svg?v=2" alt="Contribution Grid" width="100%" />
 </p>
 
 <br>
