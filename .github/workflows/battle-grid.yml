@@ -8,24 +8,30 @@ on:
     branches:
     - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
     steps:
-      - name: Generate the combat animation
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate High Speed Multi-Color Snake
         uses: Platane/snk@v3
         with:
           github_user_name: aman-vrma
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=white&color_dots=#3c3c3c,#6e1c1c,#992222,#cc3333,#ff0000&point_sprite=doom-imp
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00FFFF&color_dots=#161b22,#00FF66,#FFD700,#FF0055,#9D00FF&delay=40
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
