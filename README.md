@@ -7,18 +7,18 @@
   <img src="https://komarev.com/ghpvc/?username=aman-vrma&label=PROFILE_VIEWS&color=00ffff&style=flat-square" alt="Views" />
 </td>
 <td valign="top" style="padding-left: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=false&vCenter=true&width=650&height=40&lines=Aman+Verma+//+Software+Engineer;Full-Stack+Architect+%26+AI+Developer;Building+Scalable+Web+%26+Autonomous+Agents" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=false&vCenter=true&width=650&height=40&lines=Aman+Verma+//+Software+Engineer;Full-Stack+Architect+%26+AI+Developer;Building+Scalable+Web+%26+Interactive+Platforms" alt="Terminal Typing" />
   <br>
   <p>
     <code>📍 <b>Location:</b> India</code><br>
     <code>🎓 <b>Education:</b> B.Tech in Computer Science &amp; Engineering</code><br>
-    <code>⚡ <b>Core Focus:</b> Full-Stack Web Architecture, Distributed AI, &amp; Computer Vision</code>
+    <code>⚡ <b>Core Focus:</b> Full-Stack Web Architecture, Distributed AI, &amp; System Design</code>
   </p>
   <p>
-    <code>🚀 <b>Active Deployments:</b></code><br>
-    <a href="https://github.com/aman-vrma/Universal-Movie-Hub" target="_blank"><img src="https://img.shields.io/badge/Universal_Movie_Hub-Streaming_Platform-E50914?style=flat-square&logo=netflix&logoColor=white" /></a>
-    <a href="https://github.com/aman-vrma/mindmesh" target="_blank"><img src="https://img.shields.io/badge/MindMesh-Dual--AI_Orchestrator-7928CA?style=flat-square&logo=probot&logoColor=white" /></a>
-    <a href="https://github.com/aman-vrma" target="_blank"><img src="https://img.shields.io/badge/Jarvis_AI-Autonomous_Assistant-00C7B7?style=flat-square&logo=openai&logoColor=white" /></a>
+    <code>🚀 <b>Active Live Deployments:</b></code><br>
+    <a href="https://universal-movie-hub.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Universal_Movie_Hub-Live_App-E50914?style=flat-square&logo=netflix&logoColor=white" /></a>
+    <a href="https://mindmesh.vercel.app" target="_blank"><img src="https://img.shields.io/badge/MindMesh-Live_App-7928CA?style=flat-square&logo=vercel&logoColor=white" /></a>
+    <a href="https://thebigclasses.vercel.app" target="_blank"><img src="https://img.shields.io/badge/The_Big_Classes-Live_Platform-00C7B7?style=flat-square&logo=googleclassroom&logoColor=white" /></a>
   </p>
 </td>
 </tr>
