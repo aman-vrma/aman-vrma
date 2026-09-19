@@ -17,8 +17,8 @@
   <p>
     <code>🚀 <b>Active Live Deployments:</b></code><br>
     <a href="https://universal-movie-hub.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Universal_Movie_Hub-Live_App-E50914?style=flat-square&logo=netflix&logoColor=white" /></a>
-    <a href="https://mindmesh.vercel.app" target="_blank"><img src="https://img.shields.io/badge/MindMesh-Live_App-7928CA?style=flat-square&logo=vercel&logoColor=white" /></a>
-    <a href="https://thebigclasses.vercel.app" target="_blank"><img src="https://img.shields.io/badge/The_Big_Classes-Live_Platform-00C7B7?style=flat-square&logo=googleclassroom&logoColor=white" /></a>
+    <a href="https://mind-mesh-one-mu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/MindMesh-Live_App-7928CA?style=flat-square&logo=vercel&logoColor=white" /></a>
+    <a href="https://the-big-classes.vercel.app" target="_blank"><img src="https://img.shields.io/badge/The_Big_Classes-Live_Platform-00C7B7?style=flat-square&logo=googleclassroom&logoColor=white" /></a>
   </p>
 </td>
 </tr>
